@@ -29,16 +29,16 @@ export const NavBar = () => {
             {/* Desktop Menu */}
             <div className="hidden md:flex justify-between gap-8 mr-4 items-center">
                 <a class="flex items-center gap-2 cursor-pointer" href="/">
-                    <span class="text-sm md:text-xl font-thin tracking-tight text-foreground hover:text-slate-400">Home</span>
+                    <span class="text-sm md:text-xl font-thin tracking-tight text-gray-100 hover:text-slate-400">Home</span>
                 </a>
                 <a class="flex items-center gap-2 cursor-pointer" href="/">
-                    <span class="text-sm md:text-xl font-thin tracking-tight text-foreground hover:text-slate-400">PYQs</span>
+                    <span class="text-sm md:text-xl font-thin tracking-tight text-gray-100 hover:text-slate-400">PYQs</span>
                 </a>
                 <a class="flex items-center gap-2 cursor-pointer" href="/">
-                    <span class="text-sm md:text-xl font-thin tracking-tight text-foreground hover:text-slate-400">Books</span>
+                    <span class="text-sm md:text-xl font-thin tracking-tight text-gray-100 hover:text-slate-400">Books</span>
                 </a>
                 <a class="flex items-center gap-2 cursor-pointer" href="/">
-                    <span class="text-sm md:text-xl font-thin tracking-tight text-foreground hover:text-slate-400">Lectures</span>
+                    <span class="text-sm md:text-xl font-thin tracking-tight text-gray-100 hover:text-slate-400">Lectures</span>
                 </a>
             </div>
 
@@ -47,16 +47,16 @@ export const NavBar = () => {
                 <div className="absolute top-full left-0 right-0 mt-2 bg-black/90 backdrop-blur-lg border border-gray-700 rounded-lg p-4 md:hidden">
                     <div className="flex flex-col gap-4">
                         <a class="cursor-pointer" href="/">
-                            <span class="text-sm font-thin tracking-tight text-foreground hover:text-slate-400">Home</span>
+                            <span class="text-sm font-thin tracking-tight text-gray-100 hover:text-slate-400">Home</span>
                         </a>
                         <a class="cursor-pointer" href="/">
-                            <span class="text-sm font-thin tracking-tight text-foreground hover:text-slate-400">PYQs</span>
+                            <span class="text-sm font-thin tracking-tight text-gray-100 hover:text-slate-400">PYQs</span>
                         </a>
                         <a class="cursor-pointer" href="/">
-                            <span class="text-sm font-thin tracking-tight text-foreground hover:text-slate-400">Books</span>
+                            <span class="text-sm font-thin tracking-tight text-gray-100 hover:text-slate-400">Books</span>
                         </a>
                         <a class="cursor-pointer" href="/">
-                            <span class="text-sm font-thin tracking-tight text-foreground hover:text-slate-400">Lectures</span>
+                            <span class="text-sm font-thin tracking-tight text-gray-100 hover:text-slate-400">Lectures</span>
                         </a>
                     </div>
                 </div>
