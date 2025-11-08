@@ -1,4 +1,4 @@
-Harshit’s Notes -- A clean and minimal platform where students can share, explore, and access notes, PYQs, books, and lectures — all in one place.
+A clean and minimal platform where students can share, explore, and access notes, PYQs, books, and lectures — all in one place.
 
 🚀 Features--
 
