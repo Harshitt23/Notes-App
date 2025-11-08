@@ -15,7 +15,7 @@ export const NavBar = () => {
         <div class="flex w-full justify-between mx-auto bg-transparent shadow-lg shadow-neutral-600/2 backdrop-blur-lg border border-gray-700 p-6 rounded-2xl">
             <a class="flex flex-nowrap items-center gap-2 cursor-pointer w-full" href="/">
                 <FaBookBookmark className="h-6 w-6"/>
-                <div class="text-md md:text-2xl font-bold tracking-tight">Harshit's Notes</div>
+                <div class="text-md md:text-2xl font-bold tracking-tight text-white">Harshit's Notes</div>
             </a>
 
             {/* Mobile Menu Button */}
