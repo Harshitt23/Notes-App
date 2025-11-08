@@ -32,7 +32,7 @@ export const Intro = () => {
                 className="inline-flex items-center px-4 py-2 rounded-full border border-blue-500/30 bg-blue-500/10 backdrop-blur-sm"
               >
                 <span className="w-2 h-2 rounded-full bg-blue-500 mr-2 animate-pulse" />
-                <span className="text-sm font-medium text-blue-300">Welcome to GS Notes</span>
+                <span className="text-sm font-medium text-blue-300">Welcome to Harshit's Notes</span>
               </motion.div>
               
               <h1 className="font-bold text-6xl sm:text-7xl md:text-8xl xl:text-9xl tracking-tight">

@@ -33,7 +33,7 @@ export const Footer = () => {
               <p className="text-lg font-medium mb-2">Connect With Us</p>
               <div className="flex gap-6">
                 <a
-                  href="https://www.instagram.com/shridmishra"
+                  href="https://www.instagram.com/sharma_ares/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-blue-400 hover:text-white transform hover:scale-110 transition-all duration-300"
@@ -42,7 +42,7 @@ export const Footer = () => {
                   <FaInstagram className="h-6 w-6" />
                 </a>
                 <a
-                  href="https://twitter.com/shridmishra"
+                  href="https://x.com/Harshit47642621"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-blue-400 hover:text-white transform hover:scale-110 transition-all duration-300"
@@ -51,7 +51,7 @@ export const Footer = () => {
                   <FaTwitter className="h-6 w-6" />
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/shridmishra"
+                  href="https://www.linkedin.com/in/harshitcode/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-blue-400 hover:text-white transform hover:scale-110 transition-all duration-300"
@@ -66,12 +66,12 @@ export const Footer = () => {
               <p className="text-sm">
                 Made with <FaHeart className="inline text-red-500 mx-1" /> by{" "}
                 <a
-                  href="https://shridmishra.vercel.app/"
+                  href="https://my-port-folio-ehoxft9b6-harshitt23s-projects.vercel.app"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="font-bold text-blue-400 hover:text-white transition-colors duration-300"
                 >
-                  Shrid Mishra
+                  Harshit Sharma
                 </a>
               </p>
             </div>
